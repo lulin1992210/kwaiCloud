@@ -1,0 +1,95 @@
+Manifest-Version: 1.0
+Class-Path: brave-instrumentation-spring-rabbit-5.1.0.jar spring-boot-
+ starter-web-2.0.1.RELEASE.jar spring-rabbit-2.0.3.RELEASE.jar bcprov-
+ jdk15on-1.56.jar reactive-streams-1.0.2.jar jersey-client-1.19.1.jar 
+ archaius-core-0.7.6.jar spring-cloud-starter-netflix-ribbon-2.0.0.REL
+ EASE.jar spring-jdbc-5.0.5.RELEASE.jar undertow-websockets-jsr-1.4.23
+ .Final.jar jsr305-3.0.1.jar netty-codec-4.1.23.Final.jar fastjson-1.2
+ .33.jar logback-core-1.2.3.jar javax.servlet-api-3.1.0.jar spring-clo
+ ud-starter-alibaba-nacos-config-0.2.0.RELEASE.jar commons-collections
+ -3.2.2.jar spring-boot-actuator-autoconfigure-2.0.1.RELEASE.jar sprin
+ g-jcl-5.0.5.RELEASE.jar rxnetty-servo-0.4.9.jar mybatis-spring-boot-a
+ utoconfigure-1.3.0.jar netty-buffer-4.1.23.Final.jar spring-context-5
+ .0.5.RELEASE.jar servo-core-0.12.21.jar pagehelper-spring-boot-starte
+ r-1.2.3.jar validation-api-2.0.1.Final.jar spring-boot-test-autoconfi
+ gure-2.0.1.RELEASE.jar zipkin-2.9.3.jar mockito-core-2.15.0.jar xnio-
+ nio-3.3.8.Final.jar aspectjrt-1.8.13.jar nacos-client-0.3.0.jar sprin
+ g-boot-starter-json-2.0.1.RELEASE.jar jboss-annotations-api_1.2_spec-
+ 1.0.2.Final.jar spring-boot-test-2.0.1.RELEASE.jar assertj-core-3.9.1
+ .jar spring-security-crypto-5.0.4.RELEASE.jar json-simple-1.1.1.jar p
+ agehelper-spring-boot-autoconfigure-1.2.3.jar spring-cloud-openfeign-
+ core-2.0.0.RELEASE.jar brave-instrumentation-kafka-clients-5.1.0.jar 
+ jjwt-0.7.0.jar ribbon-2.2.5.jar xnio-api-3.3.8.Final.jar hamcrest-cor
+ e-1.3.jar joda-time-2.9.9.jar netty-handler-proxy-4.1.23.Final.jar un
+ dertow-core-1.4.23.Final.jar netty-resolver-4.1.23.Final.jar classmat
+ e-1.3.4.jar druid-spring-boot2-starter-1.1.10.jar rxnetty-contexts-0.
+ 4.9.jar netty-transport-4.1.23.Final.jar jboss-websocket-api_1.1_spec
+ -1.1.3.Final.jar commons-lang3-3.7.jar slf4j-api-1.7.25.jar spring-we
+ b-5.0.5.RELEASE.jar byte-buddy-agent-1.7.11.jar reactor-core-3.1.6.RE
+ LEASE.jar hibernate-validator-6.0.9.Final.jar spring-cloud-starter-ne
+ tflix-archaius-2.0.0.RELEASE.jar spring-oxm-5.0.5.RELEASE.jar guava-1
+ 6.0.jar brave-instrumentation-httpclient-5.1.0.jar commons-lang-2.6.j
+ ar zipkin-sender-amqp-client-2.7.3.jar android-json-0.0.20131108.vaad
+ in1.jar asm-5.0.4.jar tomcat-embed-websocket-8.5.29.jar spring-test-5
+ .0.5.RELEASE.jar spring-cloud-context-2.0.0.RELEASE.jar aspectjweaver
+ -1.8.13.jar xmlunit-core-2.5.1.jar httpclient-4.5.5.jar spring-core-5
+ .0.5.RELEASE.jar jboss-logging-3.3.2.Final.jar spring-messaging-5.0.5
+ .RELEASE.jar mapper-3.4.1.jar rxnetty-0.4.9.jar LatencyUtils-2.0.3.ja
+ r netty-codec-http-4.1.23.Final.jar spring-data-keyvalue-2.0.6.RELEAS
+ E.jar objenesis-2.6.jar spring-cloud-netflix-archaius-2.0.0.RELEASE.j
+ ar spring-cloud-sleuth-core-2.0.0.RELEASE.jar javax.annotation-api-1.
+ 3.2.jar bcpkix-jdk15on-1.56.jar ribbon-loadbalancer-2.2.5.jar accesso
+ rs-smart-1.2.jar spring-boot-starter-data-redis-2.0.1.RELEASE.jar nac
+ os-api-0.3.0.jar spring-cloud-starter-openfeign-2.0.0.RELEASE.jar spr
+ ing-cloud-sleuth-zipkin-2.0.0.RELEASE.jar http-client-2.0.1.RELEASE.j
+ ar spring-security-rsa-1.0.5.RELEASE.jar micrometer-core-1.0.3.jar fe
+ ign-core-9.5.1.jar jsqlparser-1.0.jar logback-classic-1.2.3.jar ribbo
+ n-core-2.2.5.jar spring-webmvc-5.0.5.RELEASE.jar brave-instrumentatio
+ n-httpasyncclient-5.1.0.jar spring-boot-starter-test-2.0.1.RELEASE.ja
+ r netflix-commons-util-0.3.0.jar junit-4.12.jar jackson-core-lgpl-1.9
+ .6.jar hamcrest-library-1.3.jar jsr311-api-1.1.1.jar reactor-netty-0.
+ 7.6.RELEASE.jar commons-io-1.3.2.jar brave-instrumentation-http-5.1.0
+ .jar mybatis-3.4.4.jar snakeyaml-1.19.jar spring-boot-starter-logging
+ -2.0.1.RELEASE.jar tomcat-embed-el-8.5.29.jar jackson-annotations-2.9
+ .0.jar druid-1.1.10.jar mysql-connector-java-5.1.46.jar feign-java8-9
+ .5.1.jar spring-boot-2.0.1.RELEASE.jar jackson-module-parameter-names
+ -2.9.5.jar javax.inject-1.jar json-smart-2.3.jar netty-codec-socks-4.
+ 1.23.Final.jar spring-boot-admin-starter-client-2.0.1.jar spring-boot
+ -starter-aop-2.0.1.RELEASE.jar javax.el-3.0.0.jar amqp-client-5.1.2.j
+ ar spring-beans-5.0.5.RELEASE.jar brave-context-log4j2-5.1.0.jar spri
+ ng-boot-starter-jdbc-2.0.1.RELEASE.jar netty-transport-native-epoll-4
+ .1.23.Final.jar byte-buddy-1.7.11.jar spring-cloud-starter-alibaba-na
+ cos-discovery-0.2.0.RELEASE.jar spring-boot-starter-actuator-2.0.1.RE
+ LEASE.jar rxjava-1.3.8.jar jolokia-core-1.5.0.jar httpcore-4.4.9.jar 
+ lettuce-core-5.0.3.RELEASE.jar undertow-servlet-1.4.23.Final.jar spri
+ ng-data-redis-2.0.6.RELEASE.jar jackson-datatype-jsr310-2.9.5.jar spr
+ ing-aop-5.0.5.RELEASE.jar spring-cloud-alibaba-nacos-config-0.2.0.REL
+ EASE.jar tomcat-embed-core-8.5.29.jar jackson-datatype-jdk8-2.9.5.jar
+  mybatis-spring-boot-starter-1.3.0.jar spring-boot-starter-undertow-2
+ .0.1.RELEASE.jar jsonassert-1.5.0.jar jul-to-slf4j-1.7.25.jar mapper-
+ spring-boot-starter-1.1.2.jar jackson-core-2.9.5.jar feign-slf4j-9.5.
+ 1.jar spring-cloud-commons-2.0.0.RELEASE.jar log4j-api-2.10.0.jar spr
+ ing-webflux-5.0.5.RELEASE.jar brave-instrumentation-spring-web-5.1.0.
+ jar ribbon-transport-2.2.5.jar spring-cloud-alibaba-nacos-discovery-0
+ .2.0.RELEASE.jar spring-cloud-starter-2.0.0.RELEASE.jar zipkin-report
+ er-2.7.3.jar json-path-2.4.0.jar mapper-spring-boot-autoconfigure-1.1
+ .2.jar HdrHistogram-2.1.10.jar spring-cloud-netflix-ribbon-2.0.0.RELE
+ ASE.jar commons-codec-1.11.jar netty-common-4.1.23.Final.jar spring-e
+ xpression-5.0.5.RELEASE.jar druid-spring-boot2-autoconfigure-1.1.10.j
+ ar spring-data-commons-2.0.6.RELEASE.jar spring-context-support-5.0.5
+ .RELEASE.jar netflix-statistics-0.1.1.jar spring-tx-5.0.5.RELEASE.jar
+  jersey-core-1.19.1.jar brave-5.1.0.jar nacos-common-0.3.0.jar log4j-
+ to-slf4j-2.10.0.jar spring-boot-starter-2.0.1.RELEASE.jar commons-con
+ figuration-1.8.jar brave-instrumentation-spring-webmvc-5.1.0.jar jers
+ ey-apache-client4-1.19.1.jar brave-instrumentation-servlet-5.1.0.jar 
+ feign-hystrix-9.5.1.jar mybatis-spring-1.3.1.jar spring-boot-starter-
+ tomcat-2.0.1.RELEASE.jar jackson-mapper-lgpl-1.9.6.jar jackson-databi
+ nd-2.9.5.jar ribbon-httpclient-2.2.5.jar spring-boot-admin-client-2.0
+ .1.jar spring-boot-actuator-2.0.1.RELEASE.jar persistence-api-1.0.jar
+  spring-retry-1.2.2.RELEASE.jar HikariCP-2.7.8.jar spring-boot-autoco
+ nfigure-2.0.1.RELEASE.jar pagehelper-5.1.2.jar spring-amqp-2.0.3.RELE
+ ASE.jar zipkin-sender-kafka11-2.7.3.jar hystrix-core-1.5.12.jar netty
+ -handler-4.1.23.Final.jar netty-transport-native-unix-common-4.1.23.F
+ inal.jar
+Main-Class: com.itmonster.kwai.cloud.auth.AuthBootstrap
+
